@@ -1,3 +1,3 @@
-## Heyoo everyone, welcome to my Git guide!!
-- Yashika here 
+## Hello, Git!!
+
 - I'm adding this from `feature-branch`
